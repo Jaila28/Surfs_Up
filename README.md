@@ -28,6 +28,6 @@ Software: Python, Anaconda Navigator,Jupyter Notebook
 ![June Temperature](https://user-images.githubusercontent.com/95897077/157553984-744bb2b5-4d76-4d4a-82c3-1b0bdbbd004d.PNG)
   
   
-  For the December Temperature, there is a difference in the amount of observation that were performed which is unfortunate. The month of December only had 1,517 oberservations performed. Even though there was a difference in the amount of the observation, the standards deviatation wasnt actually that big of a difference. It was stil in the 3% margine. I think it would be safe to assume that there may have actually been a 1% percent difference if I would have been able to extract the other 183 observations that were missing in which still would have been a small marginal difference.
+For the December Temperatures, there is a difference in the amount of observation that were performed which is unfortunate. The month of December only had 1,517 oberservations performed where as june had 1700 performed. But even though there was a difference in the amount of the observations, the standards deviatation wasnt actually that big of a difference. It was stil in the 3% margine. I think it would be safe to assume that there may have actually been a 1% percent difference if I would have been able to extract the other 183 observations that were missing, there more than likely would still have been a small marginal difference.
 
   ![December Temperature](https://user-images.githubusercontent.com/95897077/157554912-7b6a97e8-6398-4f54-b580-3c32e35d4108.PNG)
