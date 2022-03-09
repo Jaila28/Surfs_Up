@@ -7,6 +7,7 @@
 **Resources**
  
 Data Sources: hawaii.sqlite
+ 
 Software: Python, Anaconda Navigator,Jupyter Notebook
   
   **Overview of Analysis**
